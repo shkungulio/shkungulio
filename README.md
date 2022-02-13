@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shkungulio
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in coding and Apps development
+- 🌱 I’m currently learning Python, but also I would not mind to dive onto other OOP languages like java to learn more!
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me ...
 
 <!---
