@@ -2,7 +2,7 @@
 
 ## Personal Information
 **Name**: Seif Kungulio  
-**Location**: La Porte, TX
+**Location**: TX
 
 ---
 
