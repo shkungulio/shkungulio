@@ -14,11 +14,9 @@
   - Data Analytics  
   - Data Management & SQL 
   - Data Visualization  
-  - Python Programming 
-  - Machine Learning
   - Data Mining
-  - Predictive Modeling
-  - R Programming
+  - Predictive Models
+  - Capstone Project
  
 ### Post-Baccalaureate Certificate in Machine Learning
 - **Institution**: Maryville University  
