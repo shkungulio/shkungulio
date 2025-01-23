@@ -19,8 +19,21 @@
   - Data Mining
   - Predictive Modeling
   - R Programming
-
----
+ 
+### Post-Baccalaureate Certificate in Machine Learning
+- **Institution**: Maryville University  
+- **Duration**: 1 year (Since Fall 2023)
+- **Courses**:  
+  - Machine Learning
+  - R Programming
+  - Python Programming
+  - SQL (Structured Query Language)
+  - Predictive Modeling
+ 
+### Bachelor's Degree in Management Information Systems
+- **Institution**: Texas Southern University
+- **Duration**: From Aug 2013 to May 2016
+- **GPA**: 3.55/4.0
 
 ## Professional Experience
 ### HCA Houston Healthcare - Clear Lake, TX
