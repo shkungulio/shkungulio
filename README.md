@@ -1,8 +1,46 @@
-- 👋 Hi, I’m Seif Kungulio
-- 👀 I’m interested in Data analytics
-- 🌱 Aspiring Data Analyst and Machine Learning enthusiast with hands-on experience in Python, R, SQL, and machine learning projects. Seeking an internship opportunity to leverage my skills in data mining, predictive modeling, data visualization, and problem-solving to deliver actionable business insights.
-- 💞️ I’m looking to collaborate with others on Data Analysis projects
-- 📫 How to reach me ...
+# README - Seif Kungulio
+
+## Personal Information
+**Name**: Seif Kungulio  
+**Location**: La Porte, TX
+
+---
+
+## Education
+### Master's Degree in Data Analytics
+- **Institution**: Maryville University  
+- **Duration**: 1 year (Since Fall 2023)
+- **Courses**:  
+  - Data Analytics  
+  - Data Management & SQL 
+  - Data Visualization  
+  - Python Programming 
+  - Machine Learning
+  - Data Mining
+  - Predictive Modeling
+  - R Programming
+
+---
+
+## Professional Experience
+### HCA Houston Healthcare - Clear Lake, TX
+- **Unit**: Cardiovascular Unit (CVN1)  
+- **Role**: Leveraging healthcare experience to appreciate and utilize data for critical decision-making.
+
+---
+
+## Technical Skills & Interests
+- **Programming Languages**:
+  - R Programming
+  - Python Programming
+  - SQL
+- **Focus Areas**:  
+  - Machine Learning
+  - Data Mining
+  - Predictive Modeling
+- **Goal**: To professionally build predictive models and enhance decision-making through data analytics.
+
+---
 
 <!---
 shkungulio/shkungulio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
