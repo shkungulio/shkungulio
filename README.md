@@ -20,7 +20,7 @@
  
 ### Post-Baccalaureate Certificate in Machine Learning
 - **Institution**: Maryville University  
-- **Duration**: 1 year (Since Fall 2023)
+- **Duration**: Since Fall 2023
 - **Courses**:  
   - Machine Learning
   - R Programming
