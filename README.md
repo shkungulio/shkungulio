@@ -9,7 +9,7 @@
 ## Education
 ### Master's Degree in Data Analytics
 - **Institution**: Maryville University  
-- **Duration**: 1 year (Since Fall 2023)
+- **Duration**: Since Fall 2023
 - **Courses**:  
   - Data Analytics  
   - Data Management & SQL 
