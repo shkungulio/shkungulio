@@ -10,23 +10,10 @@
 ### Master's Degree in Data Analytics
 - **Institution**: Maryville University  
 - **Duration**: Since Fall 2023
-- **Courses**:  
-  - Data Analytics  
-  - Data Management & SQL 
-  - Data Visualization  
-  - Data Mining
-  - Predictive Models
-  - Capstone Project
  
 ### Post-Baccalaureate Certificate in Machine Learning
 - **Institution**: Maryville University  
 - **Duration**: Since Fall 2023
-- **Courses**:  
-  - Machine Learning
-  - R Programming
-  - Python Programming
-  - SQL (Structured Query Language)
-  - Predictive Modeling
  
 ### Bachelor's Degree in Management Information Systems
 - **Institution**: Texas Southern University
@@ -46,9 +33,10 @@
   - Python Programming
   - SQL
 - **Focus Areas**:  
+  - Data Analytics
+  - Predictive Modeling
   - Machine Learning
   - Data Mining
-  - Predictive Modeling
 - **Goal**: To professionally build predictive models and enhance decision-making through data analytics.
 
 ---
