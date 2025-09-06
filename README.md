@@ -9,11 +9,12 @@
 ## Education
 ### Master's Degree in Data Analytics
 - **Institution**: Maryville University  
-- **Duration**: Since Fall 2023
+- **Graduation**: August 2025
+- **GPA**: 4.0/4.0
  
 ### Post-Baccalaureate Certificate in Machine Learning
 - **Institution**: Maryville University  
-- **Duration**: Since Fall 2023
+- **Graduation**: August 2025
  
 ### Bachelor's Degree in Management Information Systems
 - **Institution**: Texas Southern University
