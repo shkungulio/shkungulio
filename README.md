@@ -1,4 +1,4 @@
-# README - Seif Kungulio
+# Seif Kungulio
 
 ## Personal Information
 **Name**: Seif Kungulio  
@@ -33,6 +33,9 @@
   - R Programming
   - Python Programming
   - SQL
+  - Microsoft Excel
+  - Tableau
+  - Microsoft Power BI
 - **Focus Areas**:  
   - Data Analytics
   - Predictive Modeling
