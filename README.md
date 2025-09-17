@@ -18,7 +18,7 @@
  
 ### Bachelor's Degree in Management Information Systems
 - **Institution**: Texas Southern University
-- **Duration**: From Aug 2013 to May 2016
+- **Graduation**: May 2016
 - **GPA**: 3.55/4.0
 
 ## Professional Experience
