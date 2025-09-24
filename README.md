@@ -47,6 +47,20 @@
 
 ## Projects
 - **Divvy-Tripdata Database**
+  This project builds a structured PostgreSQL database from the 2024 Divvy bike-share trip data (12 monthly datasets). The goal is to analyze ride behavior differences between **casual users** and **members**, focusing on both **temporal patterns** (daily, weekly, seasonal) and **spatial patterns** (stations, routes).
+
+The R Markdown workflow includes:
+ - Connecting to PostgreSQL using R (`RPostgres`, `DBI`).
+ - Importing and consolidating monthly CSV datasets into a single relational structure.
+ - Defining tables with primary keys, timestamps, and station/user details to ensure data integrity.
+ - Supporting analyses such as:
+   - Ride duration trends
+   - Station popularity
+   - Route usage
+   - User segmentation (casual vs. member)
+
+By creating this database, the project enables efficient querying, aggregation, and exploratory data analysis. The insights generated will help **Divvy optimize operations and guide marketing strategies**.
+
 - **Divvy-Tripdata Anlysis**
 - **Heart Disease Risks Prediction**
 - **Diabetes Risks Prediction**
