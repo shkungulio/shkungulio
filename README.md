@@ -45,6 +45,14 @@
 
 ---
 
+## Projects
+- **Divvy-Tripdata Database**
+- **Divvy-Tripdata Anlysis**
+- **Heart Disease Risks Prediction**
+- **Diabetes Risks Prediction**
+  
+---
+
 <!---
 shkungulio/shkungulio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
