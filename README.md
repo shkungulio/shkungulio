@@ -46,25 +46,37 @@
 ---
 
 ## Projects
-- **Divvy-Tripdata Database**
+### Divvy-Tripdata Database 2024**
 
-  This project builds a structured PostgreSQL database from the 2024 Divvy bike-share trip data (12 monthly datasets). The goal is to analyze ride behavior differences between **casual users** and **members**, focusing on both **temporal patterns** (daily, weekly, seasonal) and **spatial patterns** (stations, routes).
+  I designed and implemented a fully normalized PostgreSQL database for the 2024 Divvy bike-share dataset — consolidating 12 monthly CSVs (6.5M+ records) into a scalable analytical environment.
+This project combines ETL automation, database design, and exploratory analytics to uncover behavioral, temporal, and spatial patterns across Chicago’s bike network.
 
-  The R Markdown workflow includes:
-  - Connecting to PostgreSQL using R (`RPostgres`, `DBI`).
-  - Importing and consolidating monthly CSV datasets into a single relational structure.
-  - Defining tables with primary keys, timestamps, and station/user details to ensure data integrity.
-  - Supporting analyses such as:
-    - Ride duration trends
-    - Station popularity
-    - Route usage
-    - User segmentation (casual vs. member)
+**Key Features**
 
-  By creating this database, the project enables efficient querying, aggregation, and exploratory data analysis. The insights generated will help **Divvy optimize operations and guide marketing strategies**.
+* Schema design: Star-schema with dimension tables (dim_station, dim_date, dim_member_type, dim_bike_type) and a central fact_trips table.
+* Normalization: Enforced 3NF integrity with foreign keys, CHECK constraints, and deduplication logic.
+* Performance tuning: Optimized queries through time-, member-, and station-based indexes and materialized summaries.
+* ETL automation: Dynamic R scripts using RPostgres, DBI, readr, and glue for reproducible data ingestion and transformation.
+* Views for analytics: Created analytical views (e.g., vw_daily_counts, vw_weekly_counts, vw_top_start_stations) to support SQL- and R-based EDA.
 
-- **Divvy-Tripdata Anlysis**
-- **Heart Disease Risks Prediction**
-- **Diabetes Risks Prediction**
+**Insights**
+* Members ride more frequently during weekdays and commute hours.
+* Casual users peak on weekends and in summer, with longer ride durations (~30–40 min vs. ~10–12 min for members).
+* Top stations: Streeter Dr & Grand Ave, DuSable Lake Shore Dr & Monroe St.
+* Seasonality: Sharp rise in ridership from spring to summer, tapering toward winter.
+
+**Impact**
+
+This database enables Divvy analysts to:
+
+* Query millions of rides efficiently.
+* Identify demand hotspots and behavioral trends.
+* Support operational planning and marketing optimization.
+* Extend analysis to predictive modeling and demand forecasting.
+
+### Divvy-Tripdata Anlysis**
+### Heart Disease Risks Prediction**
+### Diabetes Risks Prediction**
   
 ---
 
