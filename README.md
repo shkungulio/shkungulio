@@ -46,13 +46,12 @@
 ---
 
 ## Projects
-### Divvy-Tripdata Database 2024**
+### Divvy-Tripdata Database 2024
 
   I designed and implemented a fully normalized PostgreSQL database for the 2024 Divvy bike-share dataset — consolidating 12 monthly CSVs (6.5M+ records) into a scalable analytical environment.
 This project combines ETL automation, database design, and exploratory analytics to uncover behavioral, temporal, and spatial patterns across Chicago’s bike network.
 
 **Key Features**
-
 * Schema design: Star-schema with dimension tables (dim_station, dim_date, dim_member_type, dim_bike_type) and a central fact_trips table.
 * Normalization: Enforced 3NF integrity with foreign keys, CHECK constraints, and deduplication logic.
 * Performance tuning: Optimized queries through time-, member-, and station-based indexes and materialized summaries.
@@ -68,7 +67,6 @@ This project combines ETL automation, database design, and exploratory analytics
 **Impact**
 
 This database enables Divvy analysts to:
-
 * Query millions of rides efficiently.
 * Identify demand hotspots and behavioral trends.
 * Support operational planning and marketing optimization.
