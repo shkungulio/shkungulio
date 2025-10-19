@@ -21,6 +21,8 @@
 - **Graduation**: May 2016
 - **GPA**: 3.55/4.0
 
+---
+
 ## Professional Experience
 ### HCA Houston Healthcare - Clear Lake, TX
 - **Unit**: Cardiovascular Unit (CVN1)  
