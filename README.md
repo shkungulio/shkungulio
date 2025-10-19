@@ -72,9 +72,10 @@ This database enables Divvy analysts to:
 * Support operational planning and marketing optimization.
 * Extend analysis to predictive modeling and demand forecasting.
 
-### Divvy-Tripdata Anlysis**
-### Heart Disease Risks Prediction**
-### Diabetes Risks Prediction**
+### Divvy-Tripdata Anlysis
+### Divvy-Tipdata Time-Series Analysis
+### Forecasting Heart Disease Risks
+### Diabetes Risks Prediction
   
 ---
 
