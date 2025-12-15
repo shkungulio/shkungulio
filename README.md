@@ -40,7 +40,7 @@
   - Microsoft Power BI
 - **Focus Areas**:  
   - Data Analytics
-  - Predictive Modeling
+  - Descriptive & Predictive Modeling
   - Machine Learning
   - Data Mining
 - **Goal**: To professionally build predictive models and enhance decision-making through data analytics.
