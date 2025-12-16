@@ -67,15 +67,11 @@ This project combines ETL automation, database design, and exploratory analytics
 * Seasonality: Sharp rise in ridership from spring to summer, tapering toward winter.
 
 **Impact**
-
 This database enables Divvy analysts to:
 * Query millions of rides efficiently.
 * Identify demand hotspots and behavioral trends.
 * Support operational planning and marketing optimization.
 * Extend analysis to predictive modeling and demand forecasting.
-
-### Divvy-Tripdata Database
-    * Coming soon
     
 ### Iris Clusters Analysis
     * Coming soon
