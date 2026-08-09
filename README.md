@@ -10,7 +10,6 @@
 ### Master's Degree in Data Analytics
 - **Institution**: Maryville University  
 - **Graduation**: August 2025
-- **GPA**: 4.0/4.0
  
 ### Post-Baccalaureate Certificate in Machine Learning
 - **Institution**: Maryville University  
