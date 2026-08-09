@@ -30,12 +30,12 @@
 
 ## Technical Skills & Interests
 - **Programming Languages**:
-  - R Programming
   - Python Programming
+  - R Programming
   - SQL
+  - Microsoft Power BI
   - Microsoft Excel
   - Tableau
-  - Microsoft Power BI
 - **Focus Areas**:  
   - Data Analytics
   - Descriptive & Predictive Modeling
