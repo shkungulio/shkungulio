@@ -9,15 +9,12 @@
 ## Education
 ### Master's Degree in Data Analytics
 - **Institution**: Maryville University  
-- **Graduation**: August 2025
  
 ### Post-Baccalaureate Certificate in Machine Learning
 - **Institution**: Maryville University  
-- **Graduation**: August 2025
  
 ### Bachelor's Degree in Management Information Systems
 - **Institution**: Texas Southern University
-- **Graduation**: May 2016
 
 ---
 
