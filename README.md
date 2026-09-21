@@ -56,19 +56,19 @@
 ---
 
 ## Projects
-- ### Comprehensive Divvy Bike-Sharing Analytics | [Project](https://github.com/shkungulio/comprehensive_divvy_bike_sharing_analytics) | [Dashboard](/)
+- ### Comprehensive Divvy Bike-Sharing Analytics | [Project](https://github.com/shkungulio/comprehensive_divvy_bike_sharing_analytics) | [Dashboard](https://www.github.com/shkungulio/)
   End-to-end data science pipeline analyzing 15.6M+ Divvy bike-share trips — from automated data collection and PostgreSQL warehouse design through data quality auditing, exploratory analysis, and Prophet/SARIMAX demand forecasting. Built using CRISP-DM methodology to demonstrate production-grade data engineering and analytics skills.
 
-- ### Credit Card Approval Analysis | [Project](https://github.com/shkungulio/credit-card-approval-analysis) | [Dashboard](./)
+- ### Credit Card Approval Analysis | [Project](https://github.com/shkungulio/credit-card-approval-analysis) | [Dashboard](https://www.github.com/shkungulio/)
   End-to-end ML analysis of 1,319 credit card applications, built around the target-leakage trap that invalidates most public analyses of this dataset. Leakage-free test ROC-AUC 0.823, 6-model benchmark, threshold tuning as a business decision, and an interpretable model chosen for ECOA reason codes.
 
-- ### Comparative Time-Series Forecasting | [Project](https://github.com/shkungulio/comparative_time-series_forecasting_of_major_tech_stocks) | [Dashboard](./)
+- ### Comparative Time-Series Forecasting | [Project](https://github.com/shkungulio/comparative_time-series_forecasting_of_major_tech_stocks) | [Dashboard](https://www.github.com/shkungulio/)
   An end-to-end time series forecasting project analyzing major technology stocks. Compares volatility, trend behavior, and forecast accuracy across assets using consistent modeling frameworks. Demonstrates practical financial forecasting, evaluation, and deployment-ready design.
 
-- ### Median House Value Prediction | [Project](https://github.com/shkungulio/predict_median_house_value) | [Dashboard](./)
+- ### Median House Value Prediction | [Project](https://github.com/shkungulio/predict_median_house_value) | [Dashboard](https://www.github.com/shkungulio/)
   Predict the median house value (MEDV) in Boston suburbs based on multiple explanatory variables such as crime rate, property tax, and number of rooms per dwelling.
 
-- ### Executive Sales Intelligence | [Project](https://github.com/shkungulio/executive_sales_intelligence) | [Dashboard](./)
+- ### Executive Sales Intelligence | [Project](https://github.com/shkungulio/executive_sales_intelligence) | [Dashboard](https://www.github.com/shkungulio/)
   Built an executive analytics dashboard transforming financial data into interactive BI insights for revenue, profitability, and regional performance analysis. Demonstrates Power Query data transformation, semantic modeling, DAX KPI development, and Power BI Service deployment to support strategic business decision-making.
 
 
