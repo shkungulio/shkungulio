@@ -59,16 +59,16 @@
   End-to-end data science pipeline analyzing 15.6M+ Divvy bike-share trips — from automated data collection and PostgreSQL warehouse design through data quality auditing, exploratory analysis, and Prophet/SARIMAX demand forecasting. Built using CRISP-DM methodology to demonstrate production-grade data engineering and analytics skills.
 
 - ### [Credit Card Approval Analysis](https://github.com/shkungulio/credit-card-approval-analysis)
-      - End-to-end ML analysis of 1,319 credit card applications, built around the target-leakage trap that invalidates most public analyses of this dataset. Leakage-free test ROC-AUC 0.823, 6-model benchmark, threshold tuning as a business decision, and an interpretable model chosen for ECOA reason codes.
+  End-to-end ML analysis of 1,319 credit card applications, built around the target-leakage trap that invalidates most public analyses of this dataset. Leakage-free test ROC-AUC 0.823, 6-model benchmark, threshold tuning as a business decision, and an interpretable model chosen for ECOA reason codes.
 
 - ### [Comparative Time-Series Forecasting](https://github.com/shkungulio/comparative_time-series_forecasting_of_major_tech_stocks)
-      - An end-to-end time series forecasting project analyzing major technology stocks. Compares volatility, trend behavior, and forecast accuracy across assets using consistent modeling frameworks. Demonstrates practical financial forecasting, evaluation, and deployment-ready design.
+  An end-to-end time series forecasting project analyzing major technology stocks. Compares volatility, trend behavior, and forecast accuracy across assets using consistent modeling frameworks. Demonstrates practical financial forecasting, evaluation, and deployment-ready design.
 
 - ### [Median House Value Prediction](https://github.com/shkungulio/predict_median_house_value)
-      - Predict the median house value (MEDV) in Boston suburbs based on multiple explanatory variables such as crime rate, property tax, and number of rooms per dwelling.
+  Predict the median house value (MEDV) in Boston suburbs based on multiple explanatory variables such as crime rate, property tax, and number of rooms per dwelling.
 
 - ### [Executive Sales Intelligence](https://github.com/shkungulio/executive_sales_intelligence)
-      - Built an executive analytics dashboard transforming financial data into interactive BI insights for revenue, profitability, and regional performance analysis. Demonstrates Power Query data transformation, semantic modeling, DAX KPI development, and Power BI Service deployment to support strategic business decision-making.
+  Built an executive analytics dashboard transforming financial data into interactive BI insights for revenue, profitability, and regional performance analysis. Demonstrates Power Query data transformation, semantic modeling, DAX KPI development, and Power BI Service deployment to support strategic business decision-making.
 
 
 
