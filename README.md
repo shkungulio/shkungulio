@@ -8,7 +8,7 @@
 
 ## Technical Skills & Interests
 - **Programming Languages**:
-  - Microsoft excel
+  - Microsoft Excel
   - SQL
   - Python
   - Microsoft Power BI
@@ -26,15 +26,15 @@
 ## Education
 ### Master's Degree
 - **M.S. in Data Analytics**
-    - Maryville University of St. Louis, St. Louis - MO
+  - Maryville University of Saint Louis, St. Louis - MO
  
 ### Bachelor's Degree
 - **B.B.A in Management Information Systems**
-    - Texas Southern University, Houston - TX
+  - Texas Southern University, Houston - TX
   
 ### Associate Degree
 - **A.A.S in Computer Information Systems**
-    - College of the Mainland, Texas City - TX
+  - College of the Mainland, Texas City - TX
 
 ---
 
