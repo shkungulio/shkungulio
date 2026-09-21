@@ -8,7 +8,6 @@
 
 ## Technical Skills & Interests
 - **Programming Languages**:
-  - Python Programming
   - Microsoft excel
   - SQL
   - Python
