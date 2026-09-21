@@ -2,7 +2,7 @@
 
 ## Personal Information
 **Name**: Seif Kungulio  
-**Location**: La Porte - TX
+**Location**: La Porte - TX <br>
 **[LinkedIn](www.linkedin.com/in/seif-kungulio/)** | **[GitHub](www.github.com/shkungulio/)**
 
 ---
