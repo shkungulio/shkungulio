@@ -25,16 +25,16 @@
 
 ## Education
 ### Master's Degree
-**M.S. in Data Analytics**
-  - Maryville University of St. Louis, St. Louis - MO
+- **M.S. in Data Analytics**
+    - Maryville University of St. Louis, St. Louis - MO
  
 ### Bachelor's Degree
-**B.B.A in Management Information Systems**
-  - Texas Southern University, Houston - TX
+- **B.B.A in Management Information Systems**
+    - Texas Southern University, Houston - TX
   
 ### Associate Degree
-**A.A.S in Computer Information Systems**
-  - College of the Mainland, Texas City - TX
+- **A.A.S in Computer Information Systems**
+    - College of the Mainland, Texas City - TX
 
 ---
 
