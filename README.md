@@ -2,45 +2,74 @@
 
 ## Personal Information
 **Name**: Seif Kungulio  
-**Location**: TX
-
----
-
-## Education
-### Master's Degree in Data Analytics
-- **Institution**: Maryville University  
- 
-### Post-Baccalaureate Certificate in Machine Learning
-- **Institution**: Maryville University  
- 
-### Bachelor's Degree in Management Information Systems
-- **Institution**: Texas Southern University
-
----
-
-## Professional Experience
-### HCA Houston Healthcare - Clear Lake, TX
-- **Unit**: Cardiovascular Unit (CVN1)  
-- **Role**: Leveraging healthcare experience to appreciate and utilize data for critical decision-making.
+**Location**: La Porte - TX
 
 ---
 
 ## Technical Skills & Interests
 - **Programming Languages**:
   - Python Programming
-  - R Programming
+  - Microsoft excel
   - SQL
+  - Python
   - Microsoft Power BI
-  - Microsoft Excel
+  - R Programming
   - Tableau
 - **Focus Areas**:  
   - Data Analytics
-  - Descriptive & Predictive Modeling
+  - Data Scientist
   - Machine Learning
+  - Descriptive & Predictive Modeling
   - Data Mining
-- **Goal**: To professionally build predictive models and enhance decision-making through data analytics.
 
 ---
+
+## Education
+### Master's Degree
+**M.S. in Data Analytics**
+  - Maryville University of St. Louis, St. Louis - MI  
+ 
+### Post-Baccalaureate Certificate in Machine Learning
+- Maryville University of St. Louis, St. Louis - MI
+ 
+### Bachelor's Degree
+**B.B.A in Management Information Systems**
+  - Texas Southern University, Houston - TX
+  
+### Associate Degree
+**A.A.S in Computer Information Systems**
+  - College of the Mainland, Texas City - TX
+
+---
+
+## Certifications
+- **Post-Baccalaureate Certificate in Machine Learning** - Maryville University of St. Louis
+- **Google Data Analytics Certificate** - Coursera
+- **Google IT Automation with Python Certificate** - Coursera
+
+---
+
+## Experience
+### Patient Care Technician | 03/2023 - Present
+**HCA Houston Healthcare** - Clear Lake, TX
+
+### Data Analytics Intern | 11/2023 - 01/2024
+**Psyliq** - Remote
+
+---
+
+## Projects
+### [Comprehensive Divvy Bike-Sharing Analytics](https://github.com/shkungulio/comprehensive_divvy_bike_sharing_analytics)
+
+### [Credit Card Approval Analysis](https://github.com/shkungulio/credit-card-approval-analysis)
+
+### [Comparative Time-Series Forecasting](https://github.com/shkungulio/comparative_time-series_forecasting_of_major_tech_stocks)
+
+### [Median House Value Prediction](https://github.com/shkungulio/predict_median_house_value)
+
+### [Executive Sales Intelligence](https://github.com/shkungulio/executive_sales_intelligence)
+
+
 
 
 <!---
