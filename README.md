@@ -56,10 +56,10 @@
 ---
 
 ## Projects
-- ### [Comprehensive Divvy Bike-Sharing Analytics](https://github.com/shkungulio/comprehensive_divvy_bike_sharing_analytics)
+- ### Comprehensive Divvy Bike-Sharing Analytics [Project](https://github.com/shkungulio/comprehensive_divvy_bike_sharing_analytics) | [Dashboard](./)
   End-to-end data science pipeline analyzing 15.6M+ Divvy bike-share trips — from automated data collection and PostgreSQL warehouse design through data quality auditing, exploratory analysis, and Prophet/SARIMAX demand forecasting. Built using CRISP-DM methodology to demonstrate production-grade data engineering and analytics skills.
 
-- ### [Credit Card Approval Analysis](https://github.com/shkungulio/credit-card-approval-analysis)
+- ### Credit Card Approval Analysis[Project](https://github.com/shkungulio/credit-card-approval-analysis) | [Dashboard](./)
   End-to-end ML analysis of 1,319 credit card applications, built around the target-leakage trap that invalidates most public analyses of this dataset. Leakage-free test ROC-AUC 0.823, 6-model benchmark, threshold tuning as a business decision, and an interpretable model chosen for ECOA reason codes.
 
 - ### [Comparative Time-Series Forecasting](https://github.com/shkungulio/comparative_time-series_forecasting_of_major_tech_stocks)
