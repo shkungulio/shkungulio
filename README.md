@@ -68,7 +68,7 @@
 - ### Median House Value Prediction | [Project](https://github.com/shkungulio/predict_median_house_value) | [Dashboard](https://www.github.com/shkungulio/)
   Predict the median house value (MEDV) in Boston suburbs based on multiple explanatory variables such as crime rate, property tax, and number of rooms per dwelling.
 
-- ### Executive Sales Intelligence | [Project](https://github.com/shkungulio/executive_sales_intelligence) | [Dashboard](https://www.github.com/shkungulio/)
+- ### Executive Sales Intelligence | [Project](https://github.com/shkungulio/executive_sales_intelligence) | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTQ0NTM4ZTQtYjRjMi00NDcxLWE5YzgtODZiOWJiZWRiM2ZhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
   Built an executive analytics dashboard transforming financial data into interactive BI insights for revenue, profitability, and regional performance analysis. Demonstrates Power Query data transformation, semantic modeling, DAX KPI development, and Power BI Service deployment to support strategic business decision-making.
 
 
