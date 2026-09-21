@@ -27,10 +27,7 @@
 ## Education
 ### Master's Degree
 **M.S. in Data Analytics**
-  - Maryville University of St. Louis, St. Louis - MI  
- 
-### Post-Baccalaureate Certificate in Machine Learning
-- Maryville University of St. Louis, St. Louis - MI
+  - Maryville University of St. Louis, St. Louis - MO
  
 ### Bachelor's Degree
 **B.B.A in Management Information Systems**
