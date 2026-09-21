@@ -46,24 +46,24 @@
 ---
 
 ## Experience
-### Patient Care Technician | 03/2023 - Present
-**HCA Houston Healthcare** - Clear Lake, TX
+- ### Patient Care Technician | 03/2023 - Present
+  - **HCA Houston Healthcare** - Clear Lake, TX
 
-### Data Analytics Intern | 11/2023 - 01/2024
-**Psyliq** - Remote
+- ### Data Analytics Intern | 11/2023 - 01/2024
+  - **Psyliq** - Remote
 
 ---
 
 ## Projects
-### [Comprehensive Divvy Bike-Sharing Analytics](https://github.com/shkungulio/comprehensive_divvy_bike_sharing_analytics)
+- ### [Comprehensive Divvy Bike-Sharing Analytics](https://github.com/shkungulio/comprehensive_divvy_bike_sharing_analytics)
 
-### [Credit Card Approval Analysis](https://github.com/shkungulio/credit-card-approval-analysis)
+- ### [Credit Card Approval Analysis](https://github.com/shkungulio/credit-card-approval-analysis)
 
-### [Comparative Time-Series Forecasting](https://github.com/shkungulio/comparative_time-series_forecasting_of_major_tech_stocks)
+- ### [Comparative Time-Series Forecasting](https://github.com/shkungulio/comparative_time-series_forecasting_of_major_tech_stocks)
 
-### [Median House Value Prediction](https://github.com/shkungulio/predict_median_house_value)
+- ### [Median House Value Prediction](https://github.com/shkungulio/predict_median_house_value)
 
-### [Executive Sales Intelligence](https://github.com/shkungulio/executive_sales_intelligence)
+- ### [Executive Sales Intelligence](https://github.com/shkungulio/executive_sales_intelligence)
 
 
 
