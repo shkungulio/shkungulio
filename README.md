@@ -46,11 +46,11 @@
 ---
 
 ## Experience
-- ### Patient Care Technician | 03/2023 - Present
-  - **HCA Houston Healthcare** - Clear Lake, TX
-
-- ### Data Analytics Intern | 11/2023 - 01/2024
-  - **Psyliq** - Remote
+- ### Data Analytics Intern
+  - **Psyliq** - Remote | 11/2023 - 01/2024
+  
+- ### Patient Care Technician
+  - **HCA Houston Healthcare** - Clear Lake, TX  | 03/2023 - Present
 
 ---
 
