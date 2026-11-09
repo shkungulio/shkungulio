@@ -62,7 +62,7 @@
 - ### Credit Card Approval Analysis | [Project](https://github.com/shkungulio/credit-card-approval-analysis) | [Dashboard](https://www.github.com/shkungulio/)
   End-to-end ML analysis of 1,319 credit card applications, built around the target-leakage trap that invalidates most public analyses of this dataset. Leakage-free test ROC-AUC 0.823, 6-model benchmark, threshold tuning as a business decision, and an interpretable model chosen for ECOA reason codes.
 
-- ### Comparative Time-Series Forecasting | [Project](https://github.com/shkungulio/comparative_time-series_forecasting_of_major_tech_stocks) | [Dashboard](https://www.github.com/shkungulio/)
+- ### Comparative Time-Series Forecasting | [Project](https://github.com/shkungulio/comparative_time-series_forecasting_of_major_tech_stocks) | [Dashboard](https://shkungulio.shinyapps.io/stocks_time_series_dashboard/)
   An end-to-end time series forecasting project analyzing major technology stocks. Compares volatility, trend behavior, and forecast accuracy across assets using consistent modeling frameworks. Demonstrates practical financial forecasting, evaluation, and deployment-ready design.
 
 - ### Median House Value Prediction | [Project](https://github.com/shkungulio/predict_median_house_value) | [Dashboard](https://www.github.com/shkungulio/)
